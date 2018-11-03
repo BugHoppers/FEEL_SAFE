@@ -1,4 +1,4 @@
-# bughopper
+# FEEL SAFE
 
 The main idea behind this project is to allow people to get a brief idea about the previously happened accidents and crimes of place or a locality that is unknown to him/her. Through this app, one can know about the mishappenings that may have taken place at a particular location just by letting the app know of the location. If the user happens to observe any mishappening in any place, he can report that event though the app. The report is stored in an online database and also corresponding to the type of incident that has taken place, the nearby police station or hospital can be alerted so that quick action can be initiated.
     
